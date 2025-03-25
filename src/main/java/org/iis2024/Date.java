@@ -19,6 +19,8 @@ public class Date {
   private final int day;
   private final int month;
   private final int year;
+  private String description;  // Nueva variable de estado
+
 
   /**
    * Retrieves the day component of this date.
